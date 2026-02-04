@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/hec-attendance-wizard/static/css/main.e5a02802.css",
-    "main.js": "/hec-attendance-wizard/static/js/main.62c37ad1.js",
-    "static/js/453.1abe1c2b.chunk.js": "/hec-attendance-wizard/static/js/453.1abe1c2b.chunk.js",
+    "main.js": "/hec-attendance-wizard/static/js/main.26eb1197.js",
     "index.html": "/hec-attendance-wizard/index.html",
     "main.e5a02802.css.map": "/hec-attendance-wizard/static/css/main.e5a02802.css.map",
-    "main.62c37ad1.js.map": "/hec-attendance-wizard/static/js/main.62c37ad1.js.map",
-    "453.1abe1c2b.chunk.js.map": "/hec-attendance-wizard/static/js/453.1abe1c2b.chunk.js.map"
+    "main.26eb1197.js.map": "/hec-attendance-wizard/static/js/main.26eb1197.js.map"
   },
   "entrypoints": [
     "static/css/main.e5a02802.css",
-    "static/js/main.62c37ad1.js"
+    "static/js/main.26eb1197.js"
   ]
 }
